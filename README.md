@@ -8,11 +8,6 @@ A simple, responsive calculator application built with HTML, CSS, and JavaScript
 - Clear button to reset the calculator.
 - Responsive design with a user-friendly interface.
 
-## Screenshots
-
-![Calculator Screenshot](![image](https://github.com/sneharawat080/OIBSIP---LEVEL-2-TASK-1-/assets/97821470/084040f2-32bf-4149-81b8-be789a80d5af)
-)
-
 ## Getting Started
 
 ### Prerequisites
