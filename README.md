@@ -10,7 +10,8 @@ A simple, responsive calculator application built with HTML, CSS, and JavaScript
 
 ## Screenshots
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](![image](https://github.com/sneharawat080/OIBSIP---LEVEL-2-TASK-1-/assets/97821470/084040f2-32bf-4149-81b8-be789a80d5af)
+)
 
 ## Getting Started
 
